@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Drawable</string>
+    <string name="name">Name</string>
+    <string name="start">Try me</string>
+    <string name="go">Go</string>
+    <string name="again">Again?</string>
+    <string name="t1">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure quaerat voluptatibus, cupiditate illo quae accusamus excepturi praesentium explicabo totam ducimus magnam omnis harum? Ea, at quam dolore quos repudiandae aliquid.
+</string>
+    <string name="t2">Hello</string>
+</resources>
